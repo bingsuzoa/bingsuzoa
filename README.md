@@ -25,8 +25,3 @@
     <img src=https://img.shields.io/badge/Instagram-FF6A89?style=flat&logo=Instagram&logoColor=white></a>
   <img src=https://img.shields.io/badge/zxc__777%40naver.com-30B980?style=flat&logo=gmail&logoColor=white>
 </div>
-
-<h3 align="center"> 📈Statistics📈 </h3>
-<div align="center">
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bingsuzoa&show_icons=true&theme=radical)
-</div>
