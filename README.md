@@ -5,18 +5,18 @@
 
 <h3 align="center"> 🔆Tech Stack🔆 </h3>
 <div align="center">
-  <img src=https://img.shields.io/badge/spring-6DB33F?style=flat&logo=spring&logoColor=white>
-  <img src=https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white>
-  <img src=https://img.shields.io/badge/HTML-FFE150?style=flat&logo=html5&logoColor=black>
-  <img src=https://img.shields.io/badge/css-FFF0F5?style=flat&logo=csswizardry&logoColor=black>
+  <img src=https://img.shields.io/badge/MySqL-1E82CD?style=flat-square&logo=mysql&logoColor=white>
+  <img src=https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white>
+  <img src=https://img.shields.io/badge/HTML-FFE150?style=flat-square&logo=html5&logoColor=black>
+  <img src=https://img.shields.io/badge/css-FFF0F5?style=flat-square&logo=csswizardry&logoColor=black>
 </div>
 
 <h3 align="center"> ✏️Tools✏️ </h3>
 <div align="center">
-  <img src=https://img.shields.io/badge/Figma-3296FF?style=flat&logo=figma&logoColor=white>
-  <img src=https://img.shields.io/badge/Github-000000?style=flat&logo=github&logoColor=white>
-  <img src=https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white>
-  <img src=https://img.shields.io/badge/Filmora-07273D?style=flat&logo=wondersharefilmora&logoColor=white>
+  <img src=https://img.shields.io/badge/Figma-3296FF?style=flat-square&logo=figma&logoColor=white>
+  <img src=https://img.shields.io/badge/Github-000000?style=flat-square&logo=github&logoColor=white>
+  <img src=https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white>
+  <img src=https://img.shields.io/badge/Filmora-07273D?style=flat-square&logo=wondersharefilmora&logoColor=white>
 </div>
 
 <h3 align="center"> 📱Contact📱 </h3>
