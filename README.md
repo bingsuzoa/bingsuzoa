@@ -9,6 +9,7 @@
   <img src=https://img.shields.io/badge/spring-6DB33F?style=flat&logo=spring&logoColor=white>
   <img src=https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white>
   <img src=https://img.shields.io/badge/HTML-FFE150?style=flat&logo=html5&logoColor=black>
+  <img src=https://img.shields.io/badge/css-FFF0F5?style=flat&logo=csswizardry&logoColor=black>
 </div>
 
 <h3 align="center"> ✏️Tools✏️ </h3>
