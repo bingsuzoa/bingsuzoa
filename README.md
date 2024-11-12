@@ -4,6 +4,13 @@
   <img src="'/Users/mikyeong/Desktop/Davena프로젝트/Davena관련자료/문서 gif/움짤/완성본움짤1.gif'" />
 </div>
 
+<h3 align="center"> 🔆Tech Stack🔆 </h3>
+<div align="center">
+  <img src=https://img.shields.io/badge/spring-6DB33F?style=flat&logo=spring&logoColor=white>
+  <img src=https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white>
+  <img src=https://img.shields.io/badge/HTML-FFE150?style=flat&logo=html5&logoColor=black>
+</div>
+
 <h3 align="center"> ✏️Tools✏️ </h3>
 <div align="center">
   <img src=https://img.shields.io/badge/Figma-3296FF?style=flat&logo=figma&logoColor=white>
