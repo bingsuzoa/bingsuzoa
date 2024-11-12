@@ -6,5 +6,5 @@
 
 <h3 align="center"> Tech Stack </h3>
 <div align="center">
-  <img src=https://img.shields.io/badge/Instagram-FF6A89?style=flat&logo=Instagram&logoColor=white>
+  <a href="https://www.instagram.com/bingsu_zoa/"><img src=https://img.shields.io/badge/Instagram-FF6A89?style=flat&logo=Instagram&logoColor=white></a>
 </div>
