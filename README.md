@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="'/Users/mikyeong/Desktop/Davena프로젝트/Davena관련자료/문서 gif/움짤/완성본움짤1.gif'" />
+  <img src=https://github.com/user-attachments/assets/2b3c0787-f4da-4ded-8bcc-11f4f9c007a0>
 </div>
 
 <h3 align="center"> 📈Statistics📈 </h3>
