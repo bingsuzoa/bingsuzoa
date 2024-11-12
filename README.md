@@ -4,6 +4,14 @@
   <img src="'/Users/mikyeong/Desktop/Davena프로젝트/Davena관련자료/문서 gif/움짤/완성본움짤1.gif'" />
 </div>
 
+<h3 align="center"> ✏️Tools✏️ </h3>
+<div align="center">
+  <img src=https://img.shields.io/badge/Figma-3296FF?style=flat&logo=figma&logoColor=white>
+  <img src=https://img.shields.io/badge/Github-000000?style=flat&logo=github&logoColor=white>
+  <img src=https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white>
+  <img src=https://img.shields.io/badge/Filmora-07273D?style=flat&logo=wondersharefilmora&logoColor=white>
+</div>
+
 <h3 align="center"> 📱Contact📱 </h3>
 <div align="center">
   <a href="https://www.instagram.com/bingsu_zoa/">
