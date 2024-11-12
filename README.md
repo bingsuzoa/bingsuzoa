@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src=https://github.com/user-attachments/assets/2b3c0787-f4da-4ded-8bcc-11f4f9c007a0>
+  <img src=https://github.com/user-attachments/assets/7e59713c-3b0b-4d14-97fd-edbea0b1ff21>
 </div>
 
 <h3 align="center"> 📈Statistics📈 </h3>
