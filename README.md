@@ -3,6 +3,8 @@
   <img src="'/Users/mikyeong/Desktop/Davena프로젝트/Davena관련자료/문서 gif/움짤/완성본움짤1.gif'" />
 </div>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bingsuzoa&show_icons=true&theme=radical)
+
 <h3 align="center"> 🔆Tech Stack🔆 </h3>
 <div align="center">
   <img src=https://img.shields.io/badge/MySqL-1E82CD?style=flat-square&logo=mysql&logoColor=white>
