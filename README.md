@@ -16,6 +16,7 @@
   <img src=https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white>
   <img src=https://img.shields.io/badge/HTML-FFE150?style=flat-square&logo=html5&logoColor=black>
   <img src=https://img.shields.io/badge/css-FFF0F5?style=flat-square&logo=csswizardry&logoColor=black>
+  <img src=https://img.shields.io/badge/JAVA-FF3232?style=flat-square&logo=java&logoColor=white>
 </div>
 
 <h3 align="center"> ✏️Tools✏️ </h3>
