@@ -6,5 +6,5 @@
 
 <h3 align="center"> Tech Stack </h3>
 <div align="center">
-  <img src="https://img.shields.io/badge/css?style=for-the-badge&logo=css&logoColor=F9FFFF&logoSize=20px">
+  <img src=https://img.shields.io/badge/Instagram-FF6A89?style=flat&logo=Instagram&logoColor=white>
 </div>
