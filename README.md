@@ -32,4 +32,6 @@
   <a href="https://www.instagram.com/bingsu_zoa/">
     <img src=https://img.shields.io/badge/Instagram-FF6A89?style=flat&logo=Instagram&logoColor=white></a>
   <img src=https://img.shields.io/badge/zxc__777%40naver.com-30B980?style=flat&logo=gmail&logoColor=white>
+  <a href="https://www.youtube.com/@kkomiding/">
+    <img src="https://img.shields.io/badge/youtube-#FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
 </div>
