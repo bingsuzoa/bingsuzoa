@@ -35,5 +35,5 @@
   <a href="https://www.youtube.com/@kkomiding/">
     <img src="https://img.shields.io/badge/Youtube-FF0000?style=flat-square&logo=youtube&logoColor=white"></a>
   <a href="https://www.tiktok.com/@kkomiding/">
-    <img src="https://img.shields.io/badge/TikTok-#000000?style=flat-square&logo=tiktok&logoColor=white"></a>
+    <img src="https://img.shields.io/badge/TikTok-000000?style=flat-square&logo=tiktok&logoColor=white"></a>
 </div>
