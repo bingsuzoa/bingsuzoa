@@ -34,4 +34,6 @@
   <img src=https://img.shields.io/badge/zxc__777%40naver.com-30B980?style=flat&logo=gmail&logoColor=white>
   <a href="https://www.youtube.com/@kkomiding/">
     <img src="https://img.shields.io/badge/Youtube-FF0000?style=flat-square&logo=youtube&logoColor=white"></a>
+  <a href="https://www.tiktok.com/@kkomiding/">
+    <img src="https://img.shields.io/badge/TikTok-#000000?style=flat-square&logo=tiktok&logoColor=white"></a>
 </div>
